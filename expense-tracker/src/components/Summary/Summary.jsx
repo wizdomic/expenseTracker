@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import { TransactionContext } from "../../context/TransactionContext";
+import { TransactionContext } from "../../context/Transactioncontext";
 import { calculateTotals } from "../../utils/calculateTotals";
 import styles from "./Summary.module.css";
 

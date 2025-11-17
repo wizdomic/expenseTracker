@@ -1,4 +1,4 @@
-.listSection { margin-top: 20px; }
+.listSection { margin-top: 20px; margin-bottom: 10px; }
 .list { list-style: none; }
 
 .item {
